@@ -23,7 +23,5 @@
 "prettier.trailingComma": "es5",
 "typescriptHero.imports.insertSemicolons": false,
 "typescriptHero.imports.multiLineWrapThreshold": 90,
-"editor.codeActionsOnSave": {
-    "source.organizeImports": true
-},
+"editor.codeActionsOnSave": {"source.organizeImports": true},
 "npm.enableScriptExplorer": true
